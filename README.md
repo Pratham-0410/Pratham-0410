@@ -4,7 +4,7 @@
 <p align="center">
   🎓 2nd Year B.Tech Computer Science Student from India <br/>
   💻 Aspiring Full-Stack Developer | Backend Enthusiast <br/>
-  🌏 Future MS in Computer Science (Interested in studying in China)
+  🌏 Future MS in Computer Science
 </p>
 
 ⸻
