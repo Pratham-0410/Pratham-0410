@@ -22,7 +22,7 @@ Currently, I’m focusing on becoming a strong full-stack developer with a solid
 
 - 🌱 Learning frontend development with **React** (beginner level)  
 - 🧠 Strengthening problem-solving using **C++, Java, and Python**  
-- 📚 Improving my understanding of **Core CS Subjects**: OS, DBMS, CN, OOP  
+- 📚 Improving my understanding of **Core CS Subjects**: OS, DBMS, CN, OOP
 
 ⸻
 
