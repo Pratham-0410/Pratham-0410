@@ -15,9 +15,8 @@
 
 ### 🚀 About Me
 
-I’m a computer science student who is actively rebuilding my foundations and skills after realizing the importance of deep learning and consistent practice. I enjoy understanding how systems work behind the scenes, which is why I’m especially interested in **backend development** and **software architecture**.
-
-Currently, I’m focusing on becoming a strong **full-stack developer** with a solid grasp of both frontend and backend technologies.
+I’m a computer science student focused on rebuilding strong foundations through consistent practice.  
+I enjoy understanding how systems work behind the scenes, which is why I’m especially interested in backend development and software architecture.
 
 ---
 
